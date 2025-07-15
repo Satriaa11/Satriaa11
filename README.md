@@ -23,5 +23,5 @@ Whether it’s architecting e-commerce platforms, implementing modern design sys
 ## 📫 Connect with Me
 
 - **Portfolio:** [satria-dev.vercel.app](https://satria-dev.vercel.app/)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/satriawirabakti/)
+- **LinkedIn:** [Satria Wira Bakti](https://www.linkedin.com/in/satriawirabakti/)
 - **GitHub:** [github.com/Satriaa11](https://github.com/Satriaa11)
