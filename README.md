@@ -4,7 +4,6 @@ A passionate Full-Stack Software Engineer who loves crafting complete, user-cent
 
 My expertise spans the entire development stack - from building secure, scalable backend APIs with Python, Flask, and PostgreSQL, to creating responsive and intuitive user interfaces using React, Next.js, and TypeScript. I thrive on solving complex problems and turning ideas into robust, accessible applications that work seamlessly across all devices.
 
-Whether it’s architecting e-commerce platforms, implementing modern design systems, or optimizing user experiences, I’m driven by the challenge of building software that makes a real impact.
 
 ### 🛠️ Technical Skills
 
