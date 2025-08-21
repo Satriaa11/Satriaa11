@@ -4,6 +4,7 @@ A passionate Full-Stack Software Engineer who loves crafting complete, user-cent
 
 My expertise spans the entire development stack - from building secure, scalable backend APIs with Python, Flask, and PostgreSQL, to creating responsive and intuitive user interfaces using React, Next.js, and TypeScript. I thrive on solving complex problems and turning ideas into robust, accessible applications that work seamlessly across all devices.
 
+**Currently learning:** Go & NestJS 🚀
 
 ### 🛠️ Technical Skills
 
@@ -11,11 +12,11 @@ My expertise spans the entire development stack - from building secure, scalable
 | ------------------------- | --------------------------------------------------------------------------------------- |
 | **Programming Languages** | <img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,html,css" /> |
 | **Frontend**              | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwindcss" />                   |
-| **Backend**               | <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />                       |
+| **Backend**               | <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask" />                       |
 | **Database**              | <img src="https://skillicons.dev/icons?i=postgresql,mysql" />                           |
 | **Mobile**                | <img src="https://skillicons.dev/icons?i=flutter" />                                    |
 | **DevOps & Tools**        | <img src="https://skillicons.dev/icons?i=git,docker,vercel" />                          |
-| **Other**                 | <img src="https://skillicons.dev/icons?i=figma,jest" />                                 |
+| **Other**                 | <img src="https://skillicons.dev/icons?i=figma,jest,github" />                          |
 
 ---
 
